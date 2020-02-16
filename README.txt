@@ -17,10 +17,9 @@ must be using UCFK4
 (2 UCFK4 boards required for fully functioning game)
 
 How to make:
-Downlod zip of all files from https://eng-git.canterbury.ac.nz/ence260-2017/team418
 Extract files into desired directory
 Ensure UCFK4 is connected to pc via usb port
 Open terminal
-Navigate to directory containing extracted file -> team418-master-...
+Navigate to directory containing extracted file
 type 'make program' into the command line 
 Follow instructions on UCFK4 to play game.
